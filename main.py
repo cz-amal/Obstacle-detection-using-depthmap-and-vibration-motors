@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author: Luis Condados
-# @Date:   2023-08-03 18:42:33
-# @Last Modified by:   Luis Condados
-# @Last Modified time: 2023-08-03 19:24:27
 import joblib
 import time
 import click
